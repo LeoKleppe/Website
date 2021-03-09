@@ -26,3 +26,8 @@ body {
 .menu a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+h2 {
+  text-align: center;
+}
